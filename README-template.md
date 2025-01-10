@@ -93,7 +93,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Social links profile](https://thepremkumar.github.io/Frontend-Mentor-Social-links-profile/)
 - Frontend Mentor - [@ThePremkumar](https://www.frontendmentor.io/profile/ThePremkumar)
 - LinkedIn - [@thepremkumar](https://www.linkedin.com/in/thepremkumar/)
 
