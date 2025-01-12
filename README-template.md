@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-Eb_wImU2pZ)
+- Live Site URL: [live site URL](https://thepremkumar.github.io/Frontend-Mentor-Social-links-profile/)
 
 ## My process
 
@@ -93,7 +93,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Social links profile](https://thepremkumar.github.io/Frontend-Mentor-Social-links-profile/)
+- Website - [Github profile](https://thepremkumar.github.io/Frontend-Mentor-Social-links-profile/)
 - Frontend Mentor - [@ThePremkumar](https://www.frontendmentor.io/profile/ThePremkumar)
 - LinkedIn - [@thepremkumar](https://www.linkedin.com/in/thepremkumar/)
 
